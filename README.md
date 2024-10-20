@@ -1,5 +1,5 @@
-# capy-template
-Simple template for a Capy app
+# crocus
+![crocus]([https://upload.wikimedia.org/wikipedia/commons/3/30/Crocus_sativus1.jpg])
 
 **Target Zig Version: zig `0.13.0` / ([2024.5.0-mach](https://machengine.org/about/nominated-zig/))**
 
